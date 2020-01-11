@@ -1,0 +1,9 @@
+{
+  "name": "WanderCodes.com",
+  "version": "1.0.0",
+  "description": "Landing page for WanderCodes.com",
+  "main": "index.js",
+  "repository": "git@github.com:WanderCodesAS/WanderCodes.github.io.git",
+  "author": "Theodore Gonzalez <gonzalez.theodore2@gmail.com>",
+  "license": "UNLICENSED"
+}
